@@ -9,6 +9,6 @@ All scores are **TRUE MSE** values. This means that they have been upscaled or d
 
 |                        | RNN  | CNN   | Lin Reg | Support Vector |
 |------------------------|------|-------|---------|----------------|
-| Round 1 (Last 55 rows) | 1600 | ~4000 | ~3200   |                |
+| Round 1 (Last 55 rows) | 1600 :smirk: | ~4000 :worried: | ~3200  :relieved: | 53000!! :dizzy_face:  |
 |                        |      |       |         |                |
 |                        |      |       |         |                |
